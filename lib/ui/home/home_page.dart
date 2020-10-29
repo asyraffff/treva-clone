@@ -9,10 +9,6 @@ class HomePage extends StatelessWidget {
         children: <Widget>[
           new GradientAppBar("treva"),
           new HomePageBody(),
-          new HomePageBody(),
-          new HomePageBody(),
-          new HomePageBody(),
-          new HomePageBody(),
         ],
       ),
     );
